@@ -1,5 +1,10 @@
 # Smart Pantry Manager
 
+<div align="center">
+  <img src="app/src/main/res/drawable/nxg_logo.png" alt="NxG Technologies logo" width="120">
+  <p><strong>A project by NxG Technologies</strong></p>
+</div>
+
 A simple Android **Java** application to track leftover ingredients and suggest only recipes whose full ingredient requirements are met.
 
 ## Database
